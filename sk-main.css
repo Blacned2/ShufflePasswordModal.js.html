@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(34, 30, 30);
+}
+.num-screen{
+    display: none;
+    width: 10em;
+    height: auto;
+    background-color: whitesmoke;
+    border-radius: .2rem;
+    position: absolute;
+    top: 540px;
+    left: 50%;
+}
+.mt-10{
+    margin-top: 1em;
+}
+.userstyle{
+    background-color: rgb(93, 62, 228)!important;
+    padding: .1em;
+    border-radius: 6px;
+    border: 1px solid whitesmoke;
+}
+.buton{background-color:aquamarine;color:black;width:120px;height:60px;font-size:32px}
+.image{width:960px;height:640px}
+.n-buttons{
+    margin-top: 1em;
+}
+.nb-buttons{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.hiddenbtnhover {
+    color: black;
+}
+.hiddenbtnhover:hover{
+    color: red;
+}
